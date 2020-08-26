@@ -1,5 +1,5 @@
-Project 1 - Tree Command
-========================
+CSCI-442 - Fall'20: Project 1 - Tree Command
+==============================================
 
 :Assigned: August 26, 2020
 :Due: September 7, 2020, at 11:59 PM
