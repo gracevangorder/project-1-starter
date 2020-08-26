@@ -2,7 +2,7 @@ Project 1 - Tree Command
 ========================
 
 :Assigned: August 26, 2020
-:Due: September 8, 2020, at 11:59 PM
+:Due: September 7, 2020, at 11:59 PM
 
 Introduction
 ------------
