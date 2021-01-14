@@ -1,8 +1,7 @@
-CSCI-442 - Fall'20: Project 1 - Tree Command
+CSCI-442 : Project 1 - Tree Command
 ==============================================
 
-:Assigned: August 26, 2020
-:Due: September 7, 2020, at 11:59 PM
+:Due: Please see the assignment on Canvas for dates. 
 
 Introduction
 ------------
@@ -160,25 +159,13 @@ You can open these using the ``man`` command.  For example::
 
   $ man 3 opendir
 
+You cannot copy/paste/modify/derive code from an existing solution taken from any external resource (e.g. internet, student etc.)
+
 Submitting Your Project
 -----------------------
 
-Submission of your project will be handled using GitHub classroom.
-From Canvas, find the link to the GitHub classroom, where you will
-asssociate your GitHub account with your Mines account, and the site
-will create a private repository for your work.
-
-To submit your work, type (from the base of the repo)::
-
-   $ ./submit-my-work
-
-This should be done on an ALAMODE machine, even if you have developed
-from a computer at home.  You can SSH into the ALAMODE machines, clone
-your code, and test it there.
-
-The script will run some minimal automated checks (e.g., check that
-your code compiles), and prompt your for any info required on your
-submission, including calculating slip days.
+Submission of your project will be handled using Gradescope.
+Further instructions will be provided.
 
 Collaboration Policy
 --------------------
