@@ -27,24 +27,14 @@ endobj
 endobj
 6 0 obj
 <<
-/Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.tutorialspoint.com/cprogramming/c_strings.htm)
+>> /Border [ 0 0 0 ] /Rect [ 150.3829 207.8236 415.4428 219.8236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.kernel.org/doc/html/v5.8/process/coding-style.html)
->> /Border [ 0 0 0 ] /Rect [ 166.8429 301.8236 285.5748 313.8236 ] /Subtype /Link /Type /Annot
->>
-endobj
-8 0 obj
-<<
-/Annots [ 7 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
+/Annots [ 6 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -52,9 +42,26 @@ endobj
 >> /Type /Page
 >>
 endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kernel.org/doc/html/v5.8/process/coding-style.html)
+>> /Border [ 0 0 0 ] /Rect [ 166.8429 185.8236 285.5748 197.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
 9 0 obj
 <<
-/Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
+/Annots [ 8 0 R ] /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -62,88 +69,88 @@ endobj
   /Type /Page
 >>
 endobj
-10 0 obj
-<<
-/Outlines 12 0 R /PageLabels 28 0 R /PageMode /UseNone /Pages 24 0 R /Type /Catalog
->>
-endobj
 11 0 obj
 <<
-/Author () /CreationDate (D:20200826153043+07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200826153043+07'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (CSCI-442 - Fall'20: Project 1 - Tree Command) /Trapped /False
+/Outlines 13 0 R /PageLabels 29 0 R /PageMode /UseNone /Pages 25 0 R /Type /Catalog
 >>
 endobj
 12 0 obj
 <<
-/Count 14 /First 13 0 R /Last 23 0 R /Type /Outlines
+/Author () /CreationDate (D:20210114084729+07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20210114084729+07'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (CSCI-442 : Project 1 - Tree Command) /Trapped /False
 >>
 endobj
 13 0 obj
 <<
-/Count 1 /Dest [ 6 0 R /XYZ 62.69291 689.0236 0 ] /First 14 0 R /Last 14 0 R /Next 15 0 R /Parent 12 0 R 
-  /Title (Introduction)
+/Count 14 /First 14 0 R /Last 24 0 R /Type /Outlines
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 626.0236 0 ] /Parent 13 0 R /Title (Learning Objectives)
+/Count 1 /Dest [ 7 0 R /XYZ 62.69291 704.0236 0 ] /First 15 0 R /Last 15 0 R /Next 16 0 R /Parent 13 0 R 
+  /Title (Introduction)
 >>
 endobj
 15 0 obj
 <<
-/Count 3 /Dest [ 6 0 R /XYZ 62.69291 536.0236 0 ] /First 16 0 R /Last 17 0 R /Next 19 0 R /Parent 12 0 R 
-  /Prev 13 0 R /Title (Project Requirements)
+/Dest [ 7 0 R /XYZ 62.69291 641.0236 0 ] /Parent 14 0 R /Title (Learning Objectives)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 503.0236 0 ] /Next 17 0 R /Parent 15 0 R /Title (Functionality)
+/Count 3 /Dest [ 7 0 R /XYZ 62.69291 551.0236 0 ] /First 17 0 R /Last 18 0 R /Next 20 0 R /Parent 13 0 R 
+  /Prev 14 0 R /Title (Project Requirements)
 >>
 endobj
 17 0 obj
 <<
-/Count 1 /Dest [ 6 0 R /XYZ 62.69291 367.8236 0 ] /First 18 0 R /Last 18 0 R /Parent 15 0 R /Prev 16 0 R 
-  /Title (Output Format)
+/Dest [ 7 0 R /XYZ 62.69291 518.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (Functionality)
 >>
 endobj
 18 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 259.8236 0 ] /Parent 17 0 R /Title (Examples)
+/Count 1 /Dest [ 7 0 R /XYZ 62.69291 382.8236 0 ] /First 19 0 R /Last 19 0 R /Parent 16 0 R /Prev 17 0 R 
+  /Title (Output Format)
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 451.8236 0 ] /Next 20 0 R /Parent 12 0 R /Prev 15 0 R /Title (General Requirements)
+/Dest [ 7 0 R /XYZ 62.69291 161.8236 0 ] /Parent 18 0 R /Title (Examples)
 >>
 endobj
 20 0 obj
 <<
-/Dest [ 8 0 R /XYZ 62.69291 160.8236 0 ] /Next 21 0 R /Parent 12 0 R /Prev 19 0 R /Title (Getting Started)
+/Dest [ 9 0 R /XYZ 62.69291 335.8236 0 ] /Next 21 0 R /Parent 13 0 R /Prev 16 0 R /Title (General Requirements)
 >>
 endobj
 21 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 741.0236 0 ] /Next 22 0 R /Parent 12 0 R /Prev 20 0 R /Title (Resources)
+/Dest [ 10 0 R /XYZ 62.69291 729.0236 0 ] /Next 22 0 R /Parent 13 0 R /Prev 20 0 R /Title (Getting Started)
 >>
 endobj
 22 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 548.8236 0 ] /Next 23 0 R /Parent 12 0 R /Prev 21 0 R /Title (Submitting Your Project)
+/Dest [ 10 0 R /XYZ 62.69291 624.0236 0 ] /Next 23 0 R /Parent 13 0 R /Prev 21 0 R /Title (Resources)
 >>
 endobj
 23 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 360.6236 0 ] /Parent 12 0 R /Prev 22 0 R /Title (Collaboration Policy)
+/Dest [ 10 0 R /XYZ 62.69291 399.8236 0 ] /Next 24 0 R /Parent 13 0 R /Prev 22 0 R /Title (Submitting Your Project)
 >>
 endobj
 24 0 obj
 <<
-/Count 3 /Kids [ 6 0 R 8 0 R 9 0 R ] /Type /Pages
+/Dest [ 10 0 R /XYZ 62.69291 348.8236 0 ] /Parent 13 0 R /Prev 23 0 R /Title (Collaboration Policy)
 >>
 endobj
 25 0 obj
 <<
-/Length 7153
+/Count 3 /Kids [ 7 0 R 9 0 R 10 0 R ] /Type /Pages
+>>
+endobj
+26 0 obj
+<<
+/Length 5653
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -151,31 +158,11 @@ q
 1 0 0 1 62.69291 741.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 21.39488 0 Td (CSCI-442 - Fall'20: Project 1 - Tree Command) Tj T* -21.39488 0 Td ET
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 58.23488 0 Td (CSCI-442 : Project 1 - Tree Command) Tj T* -58.23488 0 Td ET
 Q
 Q
 q
 1 0 0 1 62.69291 716.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 24.69937 0 Td (Assigned:) Tj T* -24.69937 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (August 26, 2020) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 701.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -188,40 +175,39 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (September 7, 2020, at 11:59 PM) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Please see the assignment on Canvas for dates.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 668.0236 cm
+1 0 0 1 62.69291 683.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Introduction) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 638.0236 cm
+1 0 0 1 62.69291 653.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.427485 Tw (For this project, you'll implement a program which prints a directory tree to the terminal. This program) Tj T* 0 Tw (should be implemented in the C programming language, and run on the Linux operating system.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 608.0236 cm
+1 0 0 1 62.69291 623.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Learning Objectives) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 596.0236 cm
+1 0 0 1 62.69291 611.0236 cm
 Q
 q
-1 0 0 1 62.69291 596.0236 cm
+1 0 0 1 62.69291 611.0236 cm
 Q
 q
-1 0 0 1 62.69291 584.0236 cm
+1 0 0 1 62.69291 599.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -242,10 +228,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 578.0236 cm
+1 0 0 1 62.69291 593.0236 cm
 Q
 q
-1 0 0 1 62.69291 566.0236 cm
+1 0 0 1 62.69291 581.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -266,10 +252,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 560.0236 cm
+1 0 0 1 62.69291 575.0236 cm
 Q
 q
-1 0 0 1 62.69291 548.0236 cm
+1 0 0 1 62.69291 563.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -290,35 +276,35 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 548.0236 cm
+1 0 0 1 62.69291 563.0236 cm
 Q
 q
-1 0 0 1 62.69291 515.0236 cm
+1 0 0 1 62.69291 530.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Project Requirements) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 485.0236 cm
+1 0 0 1 62.69291 500.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Functionality) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 431.0236 cm
+1 0 0 1 62.69291 446.0236 cm
 q
 BT 1 0 0 1 0 38 Tm 1.667485 Tw 12 TL /F1 10 Tf 0 0 0 rg (After running ) Tj /F3 10 Tf (make) Tj /F1 10 Tf (, you should have an executable program named ) Tj /F3 10 Tf (tree) Tj /F1 10 Tf ( located in the root of your) Tj T* 0 Tw 1.248555 Tw (repository. This program should take one optional command line argument: the directory to tree, which) Tj T* 0 Tw .999987 Tw (may be either an absolute or relative path. If this argument is not specified, you should tree the current) Tj T* 0 Tw (working directory.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 413.0236 cm
+1 0 0 1 62.69291 428.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If your program encounters a symlink, you should output the special line \(indented to the correct level\):) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 379.8236 cm
+1 0 0 1 62.69291 394.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -338,51 +324,97 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 349.8236 cm
+1 0 0 1 62.69291 364.8236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Output Format) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 319.8236 cm
+1 0 0 1 62.69291 334.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.698735 Tw (You should output each filename on it's own line. When outputting a directory, you should output the) Tj T* 0 Tw (directory name, then tree the entries of the directory by one \(further\) tab character \(ASCII value 9\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 289.8236 cm
+1 0 0 1 62.69291 304.8236 cm
 q
 BT 1 0 0 1 0 14 Tm .643145 Tw 12 TL /F1 10 Tf 0 0 0 rg (You should not output the ) Tj /F3 10 Tf (.) Tj /F1 10 Tf ( or ) Tj /F3 10 Tf (..) Tj /F1 10 Tf ( entries. Recall from CSCI-274 that these are used for the current and) Tj T* 0 Tw (parent directory, respectively.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 271.8236 cm
+1 0 0 1 62.69291 286.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The order of entries within a directory may be sorted in any order.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 244.8236 cm
+1 0 0 1 62.69291 274.8236 cm
+Q
+q
+1 0 0 1 62.69291 179.8236 cm
+.960784 .960784 .862745 rg
+n 0 95 469.8898 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 26 Tm .31683 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please note that the C strings \(i.e., char arrays\) you will use to store and print the paths should be) Tj T* 0 Tw 1.659941 Tw (null terminated \() Tj 0 0 .501961 rg (https://www.tutorialspoint.com/cprogramming/c_strings.htm) Tj 0 0 0 rg (\). Otherwise, although) Tj T* 0 Tw (your output visually looks good, it will not pass our automated grading tests.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 469.8898 95 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 95 l S
+n 469.8898 0 m 469.8898 95 l S
+Q
+Q
+q
+1 0 0 1 62.69291 173.8236 cm
+Q
+q
+1 0 0 1 62.69291 146.8236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Examples) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 214.8236 cm
+1 0 0 1 62.69291 116.8236 cm
 q
 BT 1 0 0 1 0 14 Tm .075318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Suppose that you are located in a directory ) Tj /F3 10 Tf (/tmp/foo) Tj /F1 10 Tf (, and this directory contains three entries, excluding) Tj T* 0 Tw /F3 10 Tf (.) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (..) Tj /F1 10 Tf (:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 208.8236 cm
+1 0 0 1 62.69291 110.8236 cm
 Q
 q
-1 0 0 1 62.69291 208.8236 cm
+1 0 0 1 62.69291 110.8236 cm
 Q
+ 
+endstream
+endobj
+27 0 obj
+<<
+/Length 6569
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 172.8236 cm
+1 0 0 1 62.69291 729.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -402,10 +434,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 166.8236 cm
+1 0 0 1 62.69291 723.0236 cm
 Q
 q
-1 0 0 1 62.69291 142.8236 cm
+1 0 0 1 62.69291 699.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -425,10 +457,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 136.8236 cm
+1 0 0 1 62.69291 693.0236 cm
 Q
 q
-1 0 0 1 62.69291 124.8236 cm
+1 0 0 1 62.69291 681.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -448,39 +480,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 124.8236 cm
+1 0 0 1 62.69291 681.0236 cm
 Q
 q
-1 0 0 1 62.69291 79.62362 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 6.6 6.6 cm
-q
-.662745 .662745 .662745 RG
-.5 w
-.960784 .960784 .862745 rg
-n -6 -6 468.6898 36 re B*
-Q
-q
-BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ /path/to/your/tree) Tj T* (bar) Tj T* ET
-Q
-Q
-Q
-Q
-Q
- 
-endstream
-endobj
-26 0 obj
-<<
-/Length 5928
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 463.8236 cm
+1 0 0 1 62.69291 347.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -490,29 +493,29 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 300 re B*
+n -6 -6 468.6898 324 re B*
 Q
 q
-BT 1 0 0 1 0 278 Tm 12 TL /F3 10 Tf 0 0 0 rg (        fib.c) Tj T* (        baz) Tj T* (                bip) Tj T* (                        zip.txt) Tj T* (                bam) Tj T* (                        b.files) Tj T* (                        a.out) Tj T* (        prog.c) Tj T* (a.tar.bz2) Tj T* (projects) Tj T* (        SYM teleportation -) Tj (>) Tj ( /tmp/foo/bar) Tj T* (        TOP_SECRET) Tj T* ($ /path/to/your/tree bar/baz) Tj T* (bip) Tj T* (        zip.txt) Tj T* (bam) Tj T* (        b.files) Tj T* (        a.out) Tj T* ($ /path/to/your/tree ../foo/bar/baz) Tj T* (bip) Tj T* (        zip.txt) Tj T* (bam) Tj T* (        b.files) Tj T* (        a.out) Tj T* ET
+BT 1 0 0 1 0 302 Tm 12 TL /F3 10 Tf 0 0 0 rg ($ /path/to/your/tree) Tj T* (bar) Tj T* (        fib.c) Tj T* (        baz) Tj T* (                bip) Tj T* (                        zip.txt) Tj T* (                bam) Tj T* (                        b.files) Tj T* (                        a.out) Tj T* (        prog.c) Tj T* (a.tar.bz2) Tj T* (projects) Tj T* (        SYM teleportation -) Tj (>) Tj ( /tmp/foo/bar) Tj T* (        TOP_SECRET) Tj T* ($ /path/to/your/tree bar/baz) Tj T* (bip) Tj T* (        zip.txt) Tj T* (bam) Tj T* (        b.files) Tj T* (        a.out) Tj T* ($ /path/to/your/tree ../foo/bar/baz) Tj T* (bip) Tj T* (        zip.txt) Tj T* (bam) Tj T* (        b.files) Tj T* (        a.out) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 430.8236 cm
+1 0 0 1 62.69291 314.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (General Requirements) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 418.8236 cm
+1 0 0 1 62.69291 302.8236 cm
 Q
 q
-1 0 0 1 62.69291 418.8236 cm
+1 0 0 1 62.69291 302.8236 cm
 Q
 q
-1 0 0 1 62.69291 370.8236 cm
+1 0 0 1 62.69291 254.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -532,10 +535,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 364.8236 cm
+1 0 0 1 62.69291 248.8236 cm
 Q
 q
-1 0 0 1 62.69291 352.8236 cm
+1 0 0 1 62.69291 236.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -556,10 +559,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 346.8236 cm
+1 0 0 1 62.69291 230.8236 cm
 Q
 q
-1 0 0 1 62.69291 322.8236 cm
+1 0 0 1 62.69291 206.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -580,10 +583,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 316.8236 cm
+1 0 0 1 62.69291 200.8236 cm
 Q
 q
-1 0 0 1 62.69291 292.8236 cm
+1 0 0 1 62.69291 176.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -603,10 +606,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 286.8236 cm
+1 0 0 1 62.69291 170.8236 cm
 Q
 q
-1 0 0 1 62.69291 274.8236 cm
+1 0 0 1 62.69291 158.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -627,10 +630,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 268.8236 cm
+1 0 0 1 62.69291 152.8236 cm
 Q
 q
-1 0 0 1 62.69291 232.8236 cm
+1 0 0 1 62.69291 116.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -650,10 +653,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 226.8236 cm
+1 0 0 1 62.69291 110.8236 cm
 Q
 q
-1 0 0 1 62.69291 202.8236 cm
+1 0 0 1 62.69291 86.82362 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -673,10 +676,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 196.8236 cm
+1 0 0 1 62.69291 80.82362 cm
 Q
+ 
+endstream
+endobj
+28 0 obj
+<<
+/Length 4978
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 172.8236 cm
+1 0 0 1 62.69291 741.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -696,57 +708,48 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 172.8236 cm
+1 0 0 1 62.69291 741.0236 cm
 Q
 q
-1 0 0 1 62.69291 139.8236 cm
+1 0 0 1 62.69291 708.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Getting Started) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 85.82362 cm
+1 0 0 1 62.69291 654.0236 cm
 q
 BT 1 0 0 1 0 38 Tm .654104 Tw 12 TL /F1 10 Tf 0 0 0 rg (The starter code provides a ) Tj /F3 10 Tf (Makefile) Tj /F1 10 Tf ( and boilerplate for a main function, but does not dictate how you) Tj T* 0 Tw .797633 Tw (should structure the code for your implementation. This means you are going to need to create some of) Tj T* 0 Tw .405868 Tw (your own software design, e.g., make new functions and potentially even new files. In other words, this is) Tj T* 0 Tw (not a "fill in the functions and you will have a working project" sort of starter code.) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-27 0 obj
-<<
-/Length 4657
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 753.0236 cm
+1 0 0 1 62.69291 636.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You are free to dispose of any parts of the starter code you don't want to use.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 720.0236 cm
+1 0 0 1 62.69291 603.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Resources) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 702.0236 cm
+1 0 0 1 62.69291 585.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You may find the following manuals on your system of use:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 696.0236 cm
+1 0 0 1 62.69291 579.0236 cm
 Q
 q
-1 0 0 1 62.69291 696.0236 cm
+1 0 0 1 62.69291 579.0236 cm
 Q
 q
-1 0 0 1 62.69291 684.0236 cm
+1 0 0 1 62.69291 567.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -767,10 +770,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 678.0236 cm
+1 0 0 1 62.69291 561.0236 cm
 Q
 q
-1 0 0 1 62.69291 666.0236 cm
+1 0 0 1 62.69291 549.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -791,10 +794,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 660.0236 cm
+1 0 0 1 62.69291 543.0236 cm
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -815,10 +818,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 642.0236 cm
+1 0 0 1 62.69291 525.0236 cm
 Q
 q
-1 0 0 1 62.69291 630.0236 cm
+1 0 0 1 62.69291 513.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -839,10 +842,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 62.69291 507.0236 cm
 Q
 q
-1 0 0 1 62.69291 612.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -863,16 +866,16 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 612.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 Q
 q
-1 0 0 1 62.69291 594.0236 cm
+1 0 0 1 62.69291 477.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can open these using the ) Tj /F3 10 Tf (man) Tj /F1 10 Tf ( command. For example:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 560.8236 cm
+1 0 0 1 62.69291 443.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -893,81 +896,46 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 527.8236 cm
+1 0 0 1 62.69291 411.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.06771 Tw (You cannot copy/paste/modify/derive code from an existing solution taken from any external resource \(e.g.) Tj T* 0 Tw (internet, student etc.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Submitting Your Project) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 485.8236 cm
+1 0 0 1 62.69291 360.8236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.544985 Tw (Submission of your project will be handled using GitHub classroom. From Canvas, find the link to the) Tj T* 0 Tw .721984 Tw (GitHub classroom, where you will asssociate your GitHub account with your Mines account, and the site) Tj T* 0 Tw (will create a private repository for your work.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Submission of your project will be handled using Gradescope. Further instructions will be provided.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 467.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To submit your work, type \(from the base of the repo\):) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 434.6236 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 6.6 6.6 cm
-q
-.662745 .662745 .662745 RG
-.5 w
-.960784 .960784 .862745 rg
-n -6 -6 468.6898 24 re B*
-Q
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL ($ ./submit-my-work) Tj T* ET
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 62.69291 402.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .89528 Tw (This should be done on an ALAMODE machine, even if you have developed from a computer at home.) Tj T* 0 Tw (You can SSH into the ALAMODE machines, clone your code, and test it there.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 372.6236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.05189 Tw (The script will run some minimal automated checks \(e.g., check that your code compiles\), and prompt your) Tj T* 0 Tw (for any info required on your submission, including calculating slip days.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 339.6236 cm
+1 0 0 1 62.69291 327.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Collaboration Policy) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 321.6236 cm
+1 0 0 1 62.69291 309.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Please see the syllabus for the course plagarism policies.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 303.6236 cm
+1 0 0 1 62.69291 291.8236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This is an ) Tj /F2 10 Tf (individual project) Tj /F1 10 Tf (. Plagarism cases will be punished harshly according to school policies.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 273.6236 cm
+1 0 0 1 62.69291 261.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .714198 Tw (Please do keep any Git repos private, even after you finish this course. This will keep the project fun for) Tj T* 0 Tw (future students!) Tj T* ET
@@ -976,28 +944,28 @@ Q
  
 endstream
 endobj
-28 0 obj
-<<
-/Nums [ 0 29 0 R 1 30 0 R 2 31 0 R ]
->>
-endobj
 29 0 obj
 <<
-/S /D /St 1
+/Nums [ 0 30 0 R 1 31 0 R 2 32 0 R ]
 >>
 endobj
 30 0 obj
 <<
-/S /D /St 2
+/S /D /St 1
 >>
 endobj
 31 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+32 0 obj
 <<
 /S /D /St 3
 >>
 endobj
 xref
-0 32
+0 33
 0000000000 65535 f 
 0000000073 00000 n 
 0000000134 00000 n 
@@ -1005,41 +973,42 @@ xref
 0000000353 00000 n 
 0000000458 00000 n 
 0000000577 00000 n 
-0000000782 00000 n 
-0000000996 00000 n 
-0000001219 00000 n 
-0000001424 00000 n 
-0000001530 00000 n 
-0000001832 00000 n 
-0000001907 00000 n 
-0000002059 00000 n 
-0000002166 00000 n 
-0000002339 00000 n 
-0000002453 00000 n 
-0000002606 00000 n 
-0000002702 00000 n 
-0000002836 00000 n 
-0000002965 00000 n 
-0000003088 00000 n 
-0000003225 00000 n 
-0000003346 00000 n 
-0000003418 00000 n 
-0000010623 00000 n 
-0000016603 00000 n 
-0000021312 00000 n 
-0000021371 00000 n 
-0000021405 00000 n 
-0000021439 00000 n 
+0000000786 00000 n 
+0000001009 00000 n 
+0000001223 00000 n 
+0000001446 00000 n 
+0000001652 00000 n 
+0000001758 00000 n 
+0000002051 00000 n 
+0000002126 00000 n 
+0000002278 00000 n 
+0000002385 00000 n 
+0000002558 00000 n 
+0000002672 00000 n 
+0000002825 00000 n 
+0000002921 00000 n 
+0000003055 00000 n 
+0000003185 00000 n 
+0000003309 00000 n 
+0000003447 00000 n 
+0000003569 00000 n 
+0000003642 00000 n 
+0000009347 00000 n 
+0000015968 00000 n 
+0000020998 00000 n 
+0000021057 00000 n 
+0000021091 00000 n 
+0000021125 00000 n 
 trailer
 <<
 /ID 
-[<46c13c2101b85332f74c0d9bfa059d36><46c13c2101b85332f74c0d9bfa059d36>]
+[<dc1e70eeebc3a33fd35b6bac5849fbcc><dc1e70eeebc3a33fd35b6bac5849fbcc>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 11 0 R
-/Root 10 0 R
-/Size 32
+/Info 12 0 R
+/Root 11 0 R
+/Size 33
 >>
 startxref
-21473
+21159
 %%EOF

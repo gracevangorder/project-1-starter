@@ -40,13 +40,19 @@ Output Format
 
 You should output each filename on it's own line.  When outputting a
 directory, you should output the directory name, then tree the entries
-of the directory by one (further) tab character (ASCII value 9).
+of the directory by one (further) tab character (ASCII value 9). 
 
 You should not output the ``.`` or ``..`` entries.  Recall from
 CSCI-274 that these are used for the current and parent directory,
 respectively.
 
 The order of entries within a directory may be sorted in any order.
+
+.. warning::
+	Please note that the C strings (i.e., char arrays) you will use to store and print the paths 
+	should be null terminated (https://www.tutorialspoint.com/cprogramming/c_strings.htm).
+	Otherwise, although your output visually looks good,
+	it will not pass our automated grading tests. 
 
 Examples
 ^^^^^^^^
